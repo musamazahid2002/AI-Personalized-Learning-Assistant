@@ -1,2 +1,3 @@
 # AI-Personalized-Learning-Assistant
 An AI Personalized Learning Assistant is an intelligent educational system that uses Artificial Intelligence (AI) to create customized learning experiences for each student. It analyzes a learner's progress, strengths, weaknesses, learning style and goals to provide personalized guidance, study plans and real-time support.
+This platform combines modern web technologies with Generative AI to create a virtual mentor that adapts to each learner's pace and performance. Instead of following a fixed curriculum, interns receive customized recommendations based on completed lessons, progress history and learning gaps.
