@@ -1,1 +1,7 @@
+image: "/images/html-basics.jpg"
+image: "/images/css-styling.jpg"
+image: "/images/javascript.jpg"
+image: "/images/nextjs.jpg"
 
+<img src="/images/hero.jpg" alt="Hero" />
+<img src="/images/ai-guidance.jpg" alt="AI Tutor" />
