@@ -5,6 +5,8 @@ This platform combines modern web technologies with Generative AI to create a vi
 
 An **AI Personalized Learning Assistant** built with **Next.js**, **React**, and **Tailwind CSS**. The application provides personalized learning modules, tracks learner progress, identifies weak areas and includes a simple AI tutor interface.
 
+![Uploading AI Personalized Learning Assistant.png…]()
+
 ---
 
 ## 🚀 Features
